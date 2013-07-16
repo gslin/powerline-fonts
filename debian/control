@@ -1,0 +1,15 @@
+Source: powerline-fonts
+Section: fonts
+Priority: extra
+Maintainer: Gea-Suan Lin <gslin@gslin.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/powerline-fonts.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/powerline-fonts.git;a=summary
+
+Package: powerline-fonts
+Architecture: all
+Depends: ${misc:Depends}
+Description: Powerline OpenType fonts.
+ Powerline OpenType fonts.

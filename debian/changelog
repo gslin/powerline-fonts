@@ -1,0 +1,11 @@
+powerline-fonts (0.1-1ubuntu1) precise quantal; urgency=low
+
+  * Add Quantal.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 16 Jul 2013 05:10:27 +0800
+
+powerline-fonts (0.1-1) precise; urgency=low
+
+  * Initial release.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Mon, 15 Jul 2013 04:43:26 +0800
