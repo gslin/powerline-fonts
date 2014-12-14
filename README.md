@@ -1,4 +1,4 @@
 powerline-fonts
 ===============
 
-Powerline fonts for vim (Ubuntu PPA)
+Powerline fonts for vim (Ubuntu PPA).
